@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @AQSA-ABDULLAH
-- 👀 I’m interested in AI and robotics field
-- 🌱 I’m currently learning software engineering at COMSATS
+- 👀 I’m interested in learning ML and Datascience.
+- 📫 I’m currently learning software engineering at COMSATS.
+- 🌱 I'm MERN stack developer
+- 🌱 I currently working in capregSoft as a FullStackIntern.
 - 📫 Here is my youtube channel link : https://www.youtube.com/channel/UCR3HxPiip_0k9m8WxiY_S9Q
 
 <!---
