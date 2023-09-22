@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning ML and Datascience.
 - 📫 I’m currently learning software engineering at COMSATS.
 - 🌱 I'm MERN stack developer
-- 🌱 I currently working in capregSoft as a FullStackIntern.
+- 🌱 Complete Internship in capregSoft as a FullStack Developer.
 - 📫 Here is my youtube channel link : https://www.youtube.com/channel/UCR3HxPiip_0k9m8WxiY_S9Q
 
 <!---
