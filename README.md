@@ -4,7 +4,6 @@
 - 🌱 I'm MERN stack developer.
 - 📫 Recentaly working on my Final Year Project, Transport_Hub.
 - 🌱 Complete Internship in capregSoft as a FullStack Developer.
-- 📫 https://www.youtube.com/channel/UCR3HxPiip_0k9m8WxiY_S9Q
 
 <!---
 AQSA-ABDULLAH/AQSA-ABDULLAH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
