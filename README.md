@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning ML and Datascience.
 - 📫 I’m currently learning software engineering at COMSATS.
 - 🌱 I'm MERN stack developer.
-- 📫 Recentaly working on my Final Year Project, Transport_Hub.
+- 📫 Complete My Final Year Project in 2024, Transport_Hub.
 - 🌱 Complete Internship in capregSoft as a FullStack Developer.
 
 <!---
